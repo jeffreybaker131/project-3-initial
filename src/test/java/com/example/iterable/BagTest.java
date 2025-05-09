@@ -16,7 +16,7 @@ public class BagTest {
 
     @BeforeEach
     public void setUp() {
-        bag = new Bag<>();
+        bag = new Bag<>;
     }
 
     @Test
